@@ -1,2 +1,2 @@
 # Certification
-A repository to store certifications.
+A repository to store PDF certifications.
